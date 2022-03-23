@@ -1,7 +1,3 @@
 #!/bin/bash
 echo "Alx school"
-<<<<<<< HEAD
 echo "My name is Birhane"
-=======
-echo "Birhane"
->>>>>>> update_script
