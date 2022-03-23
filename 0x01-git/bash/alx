@@ -1,4 +1,8 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX School is cool!"
 echo "birhane"
+=======
+echo "ALX School is Cool!"
+>>>>>>> update_script
